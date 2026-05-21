@@ -1,0 +1,23 @@
+[
+  {
+    "number": 12,
+    "title": "Add HTML report export",
+    "state": "closed",
+    "html_url": "https://example.com/issues/12",
+    "labels": [{"name": "enhancement"}]
+  },
+  {
+    "number": 14,
+    "title": "Fix Windows path handling",
+    "state": "closed",
+    "html_url": "https://example.com/issues/14",
+    "labels": [{"name": "bug"}]
+  },
+  {
+    "number": 15,
+    "title": "Document paid bundle support boundary",
+    "state": "closed",
+    "html_url": "https://example.com/issues/15",
+    "labels": [{"name": "docs"}]
+  }
+]
